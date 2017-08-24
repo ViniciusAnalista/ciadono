@@ -7,9 +7,13 @@ public class Aluno {
 	private Endereco endereco;
 	private String cpf;
 	private Professor professor;
+<<<<<<< HEAD
 	private boolean isBolsista;
 	private Mensalidade mensalidade;
 	private int numeroMatricula;
+=======
+	private boolean isBolsista;	
+>>>>>>> 5d7dd3d58c4fb0be3ad39a7cb9e08651305d8825
 	
 	public long getIdAluno() {
 		return idAluno;
