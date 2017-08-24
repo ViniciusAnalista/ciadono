@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Bootply" />
 
-<title>CiaDoNó</title>
+<title>CiaDoNÃ³</title>
 
 </head>
 <body>
@@ -23,6 +23,10 @@
 		<div>
 			<label for="description">Endereco</label>
 			<input type="text" name="endereco.rua" id="rua" />
+		</div>
+		<div>
+			<input type="radio" name="isBolsista" value= true id="isBolsista">TRUE</br>
+			<input type="radio" name="isBolsista" value= false id="isBolsista">FALSE</br>
 		</div>
 		<div>
 			<label for="pages">Teste</label> 
