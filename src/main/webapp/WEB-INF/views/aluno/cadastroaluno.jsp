@@ -7,23 +7,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Bootply" />
 
-<title>CiaDoNó</title>
+<title>CiaDoN�</title>
 
 </head>
 <body>
-	<form method="post" action="/ciadono/cadastroaluno">
+	<form method="post" action="/ciadono/cadastrar">
 		<div>
-			<label for="title">Titulo</label> 
-			<input type="text" name="title" id="title" />
+			<label for="title">Nome</label> 
+			<input type="text" name="nome" id="nome" />
 		</div>
 		<div>
-			<label for="description">Descrição</label>
-			<textarea rows="10" cols="20" name="description" id="description">
-            </textarea>
+			<label for="description">CPF</label>
+			<input type="text" name="cpf" id="cpf" />
 		</div>
 		<div>
-			<label for="pages">Número de paginas</label> 
-			<input type="text" name="pages" id="pages" />
+			<label for="description">Endereco</label>
+			<input type="text" name="endereco.rua" id="rua" />
+		</div>
+		<div>
+			<label for="pages">Teste</label> 
+			<input type="text" name="teste" id="teste" />
 		</div>
 		<div>
 			<input type="submit" value="Enviar">
