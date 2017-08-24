@@ -20,8 +20,7 @@
 		<div class="modal-dialog">
 			<div>
 				<div class="modal-header">
-					<img src="/ciadono/img/digital.png" class="img-responsive" id="loginImg">
-					<img src="/ciadono/img/logo.png" class="img-responsive" id="loginImg">
+					<img src="/img/logo-no.jpg" class="img-responsive" id="loginImg">
 				</div>
 				<div class="modal-body">
 					<div class="col-xs-7" id= "positionLogin">

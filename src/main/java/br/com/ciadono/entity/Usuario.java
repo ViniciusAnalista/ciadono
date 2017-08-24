@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class Usuario implements Serializable {
 	
-	private Long id;
+	private long id;
 	private String login;
 	
 	public Long getId() {
