@@ -5,5 +5,8 @@ public class Aluno {
 	private long id;
 	private String nome;
 	private Endereco endereco;
+	private String cpf;
+	private Professor professor;
+	private boolean isBolsista;	
 	
 }
